@@ -5,6 +5,6 @@ package com.winning.dubbo.demo.impl;
  */
 public class test {
     public void aaa(){
-
+        System.out.println("aaaaaaaaaaaaaaaaaaaaaaaaaaaa");
     }
 }
